@@ -14,13 +14,13 @@ sjb-bootcamp-portfolio
 
 * Live site
 
-https://simmmmo.github.io/sjb-w1-homework/
+https://simmmmo.github.io/sjb-bootcamp-portfolio/
 
 * GitHub enviroment
 
-https://github.com/simmmmo/sjb-w1-homework.git
-git@github.com:simmmmo/sjb-w1-homework.git
+https://github.com/simmmmo/sjb-bootcamp-portfolio.git
+git@github.com:simmmmo/sjb-bootcamp-portfolio.git
 
 * Screenshots
 
-https://github.com/simmmmo/sjb-w1-homework/blob/main/screenshots/sjb-w1-homework-screenshot.jpg
+https://github.com/simmmmo/sjb-bootcamp-portfolio/tree/main/assets/screenshot
