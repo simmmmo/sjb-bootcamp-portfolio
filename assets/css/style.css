@@ -41,11 +41,16 @@ h2 {
 }
 
 h3 {
-  font-size: 3rem;
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-size: 2rem;
 }
 
 p {
   margin-bottom: 1rem;
+  color: var(--primary-blue);
 }
 
 header {
@@ -99,13 +104,12 @@ nav a {
   text-decoration: none;
   background-size:100% 200%;
   background-image: linear-gradient(to bottom, #31343c 50%, #94cbcc 50%);
-   -webkit-transition: background-position .5s;
+  -webkit-transition: background-position .5s;
   -moz-transition: background-position .5s;
   transition: background-position .5s;
   }
 
 nav a:hover {
-  background-color: var(--highlight);
   color: var(--dark);
   background-position: 0 100%;
 }
@@ -115,6 +119,7 @@ nav a:hover {
   min-height: 200px;
   color: white;
   text-align: center;
+  margin-bottom: 30px;
 }
 
 .hero-image {
@@ -147,8 +152,8 @@ nav a:hover {
 }
 
 .hero-header h2 {
-     background-color: var(--highlight);
-    padding: 5px;
+      background-color: var(--highlight);
+      padding: 5px;
 }
 
 section {
@@ -175,7 +180,7 @@ section {
 }
 
 .col-title { 
-  border-bottom: 3px solid var(--primary-text);
+  border-bottom: 3px solid var(--primary-blue);
 }
 
 .portfolio-body {
@@ -252,11 +257,16 @@ section {
   padding: 5px;
   border-bottom: 3px solid var(--primary-blue);
   text-decoration: none;
+  background-size:100% 200%;
+  background-image: linear-gradient(to bottom, #31343c00 50%, #445873 50%);
+  -webkit-transition: background-position .5s;
+  -moz-transition: background-position .5s;
+  transition: background-position .5s;
   }
 
   .contact a:hover {
-  background-color: var(--primary-blue);
-  color: var(--highlight);
+    color: var(--highlight);
+    background-position: 0 100%;
 }
 
 footer {
