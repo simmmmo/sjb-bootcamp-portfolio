@@ -434,7 +434,7 @@ footer ul li a i {
       justify-content: flex-start;
   }
 
-  .navbar-expand-md .navbar-nav {
+  .navbar-nav {
       -ms-flex-direction: row;
       flex-direction: row;
   }
