@@ -1,6 +1,8 @@
-# Update Portfolio
+# Simon Browne Portfolio
 
-Update personal portfolio with the latest course assignments.
+## Description
+
+This is my personal portfolio that has been updated with the latest course assignments.
 
 ## Notes
 
